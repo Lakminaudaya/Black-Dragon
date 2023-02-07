@@ -14,23 +14,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94786802371'] //ur owner number
-global.ownername = "Nimesh Official" //ur owner name
-global.ytname = "YT: HELA CLOUD" //ur yt chanel name
-global.socialm = "GitHub: nimaofficial" //ur github or insta name
-global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
+global.owner = ['94770075694'] //ur owner number
+global.ownername = "ꪶ 𝐿𝜟𝜥𝐼𝑌𝜟 𝛩𝐹𝐹𝐼𝐶𝐼𝜟𝐿_ϟ➊ ꫂ" //ur owner name
+global.ytname = "YT: Lakiya_Modder" //ur yt chanel name
+global.socialm = "GitHub: Lakminaudaya" //ur github or insta name
+global.location = "Sri Lanka, Colombo, Kirindiwela" //ur location
 
 //bot bomdy 
-global.ownernomer = "94786802371" //ur number
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'BLACK DRAGON' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://www.helacloud.ga" //ur website to be displayed
-global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
-global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Sticker By Black Dragon" //ur sticker watermark packname
-global.author = "Nimesh Official" //ur sticker watermark author
-global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 𝗜𝗡𝗖" //ur watermark
+global.ownernomer = "94770075694" //ur number
+global.premium = ['94770075694'] //ur premium number
+global.botname = '🇱🇰🔥 𝚀𝙴𝙴𝙽 𝙷𝙰𝚂𝙷𝙴 𝙼𝙸𝙽𝙴 🔥🇱🇰' //ur bot name
+global.linkz = "https://chat.whatsapp.com/GM9P6W3Ft7hLlN1aW90QP1" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.youtube.com/@Lakiya_Modder" //ur website to be displayed
+global.botscript = 'https://github.com/Lakminaudaya/Black-Dragon' //script link
+global.themeemoji = "🇱🇰" //ur theme emoji
+global.packname = "Sticker By 𝚀𝙴𝙴𝙽 𝙷𝙰𝚂𝙷𝙴" //ur sticker watermark packname
+global.author = "𝙻 𝚡 𝚃 𝙾𝙵𝙲 𝚃𝙴𝙰𝙼" //ur sticker watermark author
+global.wm = "🇱🇰🔥 𝚀𝙴𝙴𝙽 𝙷𝙰𝚂𝙷𝙴 𝙼𝙸𝙽𝙴 🔥🇱🇰" //ur watermark
 
 // Other
 global.sessionName = 'session'
